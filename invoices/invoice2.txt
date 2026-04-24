@@ -1,0 +1,16 @@
+Order Type: In
+Items:
+  - Item: tea
+    Quantity: 9
+    Price per item: 1.5
+    Total price: 13.5
+
+  - Item: Falafel
+    Quantity: 3
+    Price per item: 2.0
+    Total price: 6.0
+
+  - Item: Fool
+    Quantity: 3
+    Price per item: 5.0
+    Total price: 15.0

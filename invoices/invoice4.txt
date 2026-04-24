@@ -1,0 +1,7 @@
+Order Type: Out
+Items:
+- Item: water
+    Quantity: 3
+    Price per item: 1.5
+    Total price: 6.0
+

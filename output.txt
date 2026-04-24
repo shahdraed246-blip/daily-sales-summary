@@ -1,0 +1,13 @@
+Daily Sales Summary: 
+--------------------------------
+Total orders: 4
+
+Orders In-Restaurant: 2
+Falafel (portions): 3
+Fool (dishes): 3
+Hummous (dishes): 2
+Tea (cups): 9
+
+Orders Takeaway: 2
+Tea (cups): 3
+Water (bottles): 3

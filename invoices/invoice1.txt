@@ -1,0 +1,5 @@
+Order Type: In
+Item: Hummous
+Quantity: 2
+Price per item: 3.0
+Total price: 6.0
